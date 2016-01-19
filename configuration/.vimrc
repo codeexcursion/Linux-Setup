@@ -2,7 +2,7 @@ execute pathogen#infect()
 
 syntax on
 filetype plugin indent on
-color pablo
+color elflord
 
 set guifont=Monospace\ 18
 behave mswin
