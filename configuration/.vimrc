@@ -13,4 +13,5 @@ set shiftwidth=2
 set expandtab
 set nu
 
+autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 let g:markdown_fenced_languages = ['html', 'python', 'bash=sh']
