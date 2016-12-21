@@ -5,8 +5,8 @@ filetype plugin indent on
 color elflord
 
 set guifont=Monospace\ 18
-behave mswin
-so $VIMRUNTIME/mswin.vim
+
+set clipboard=unnamedplus
 
 set tabstop=2
 set shiftwidth=2
