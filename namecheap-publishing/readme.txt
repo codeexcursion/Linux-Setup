@@ -1,0 +1,7 @@
+- Install JDK
+-- Install JBake
+-- Add jbake to path by editing .bashrc
+-- Install git client
+-- Run git clone git@github.com:ChrisLynch42/codeexcursion.com.git in publish directory.
+-- Run git clone git@github.com:ChrisLynch42/chrislynch.rocks.git
+-- Generate a public private keypair on your Linux box.  Import into Namecheap CPanel under SSH access
